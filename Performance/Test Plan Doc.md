@@ -1,6 +1,4 @@
 # 🏃‍♂️ TodoPerformanceProject – JMeter Test Plan Documentation
-## Objective
-Evaluate the performance and stability of the web application under simulated user load.
 
 ## Thread Group Configuration
 The test execution is controlled using a Thread Group
