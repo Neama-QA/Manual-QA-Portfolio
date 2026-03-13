@@ -33,8 +33,9 @@ TodoPerformanceTestPlan.jmx
 ```
 **Step 2**
 Run the Thread Group
+
 **Step 3**
 Inspect execution results using
 ```text
-View Results Tree
+View Results Tree, View Aggregate Report
 ```
