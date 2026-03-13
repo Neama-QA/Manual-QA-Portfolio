@@ -93,8 +93,7 @@ Validate the successful **creation of a new todo task**.
 - ### Element
 `text
 Module Controller`
-
-Calls the **Get Tasks API steps again**.
+Calls the Get Tasks API steps again
 Purpose
 Verify that the **task list has been updated after adding the new task**.
 
@@ -104,46 +103,35 @@ Verify that the **task list has been updated after adding the new task**.
 `text
 View Results Tree`
 Purpose
-* Inspect request and response details
-* Debug API requests
-* Verify that all assertions pass successfully
+1. Inspect request and response details
+2. Debug API requests
+3. Verify that all assertions pass successfully
 
 ## 🌟 Key Points
-* End-to-end **API workflow testing**
-* **Dynamic user registration**
-* **Token extraction and reuse** for authenticated requests
-* **Reusable Module Controller** for the Tasks API
-* Clear **assertions for status codes and response content**
----
-# 📁 File Contents
-
+* End-to-end API workflow testing
+* Dynamic user registration
+* Token extraction and reuse for authenticated requests
+* Reusable Module Controller for the Tasks API
+* Clear assertions for status codes and response content
+## 📁 File Contents
 | File / Folder                 | Description                           |
 | ----------------------------- | ------------------------------------- |
-| `TodoPerformanceTestPlan.jmx` | Full Apache JMeter test plan          |
-| `README.md`                   | Project documentation                 |
-| `Screenshots/`                | Optional screenshots from Result Tree |
-| `Notes/`                      | Optional detailed documentation       |
-
+| TodoPerformanceTestPlan.jmx | Full Apache JMeter test plan          |
+| README.md                   | Project documentation                 |
+| Screenshots/                | Optional screenshots from Result Tree |
+| Notes/                      | Optional detailed documentation       |
 ---
-
-# 🚀 How to Run
-
-### Step 1
-
-Open the test plan file in **Apache JMeter**
-
+## 🚀 How to Run
+**Step 1**
+Open the test plan file in Apache JMeter
 ```text
 TodoPerformanceTestPlan.jmx
 ```
 
-### Step 2
-
-Run the **Thread Group**
-
-### Step 3
-
+**Step 2**
+Run the Thread Group
+**Step 3**
 Inspect execution results using
-
 ```text
 View Results Tree
 ```
