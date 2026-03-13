@@ -98,7 +98,7 @@ Verify that the **task list has been updated after adding the new task**.
 ## 6️ Results Visualization
 - ### Listener
 `text
-View Results Tree`
+View Results Tree, Aggregate Report`
 Purpose
 1. Inspect request and response details
 2. Debug API requests
