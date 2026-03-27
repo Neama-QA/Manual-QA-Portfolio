@@ -13,5 +13,3 @@ The test cases and scenarios included here do not represent any confidential pro
 - Jira
 - Postman
 - Swagger
-- JMeter
-
