@@ -1,16 +1,22 @@
-# Manual Testing Portfolio
-This repository contains samples of my manual testing work. The content is regularly updated to reflect my continuous growth in Software Testing.
-The test cases and scenarios included here do not represent any confidential project.
+# Manual QA Portfolio
 
-# What you will find in this repository
+This repository contains my QA work categorized into:
+
+## 📁 Functional Testing
+Includes:
 - Test Plans
 - Test Cases
 - Bug Reports
 - Checklists
 
-## Tools Used
-- AzuerDevops
-- Jira
-- Postman
-- Swagger
-- JMeter
+📂 Navigate to: `Functional/`
+
+---
+
+## 🚀 Performance Testing
+Includes:
+- JMeter Test Plan
+- End-to-End Workflow Simulation
+- Performance Testing using JMeter
+
+📂 Navigate to: `Performance/`
